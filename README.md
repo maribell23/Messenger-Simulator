@@ -8,4 +8,5 @@ There are four other roles. Each role has different responsibilities to the appl
 User A can view, edit and delete all the messages. User B can view and edit all messages. User C can view all messages. Finally, a simple user can CRUD only his own messages.
 
 All messages are saved in a txt file by date. Every new message is appended to the same file. 
+
 The application ends when user press in menus option 'exit'.
